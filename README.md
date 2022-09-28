@@ -14,3 +14,11 @@
 
 [Rust]: https://www.rust-lang.org/tools/install
 [Lunatic runtime]: https://github.com/lunatic-solutions/lunatic#installation
+
+## Running
+
+```bash
+cargo run
+```
+
+App will be live at [localhost:3000](http://localhost:3000).
