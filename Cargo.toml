@@ -1,0 +1,9 @@
+[package]
+name = "submillisecond_starter"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+submillisecond = { path = "../../lunatic-solutions/submillisecond", version = "0.2.0-alpha1" }
